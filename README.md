@@ -9,5 +9,8 @@
 * object storage
 -minio
 
+* container tool
+-portainer
+-casaos
   
 
